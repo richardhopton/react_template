@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Start renders expected alternate snapshot 1`] = `null`;
+
+exports[`Start renders expected default snapshot 1`] = `null`;
